@@ -20,6 +20,7 @@ I'm a passionate Flutter developer with a keen interest in exploring new technol
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 - ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+- ![MySql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
 
 ### Frameworks:
 - ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
