@@ -52,12 +52,6 @@ I’m a Flutter developer with **1.9+ years of hands-on experience** building an
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deependrakashya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deependrakashya&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/deependra-kashyap-08aa74268)
 - 🐦 [Twitter / X](https://x.com/CodeByDeependra)
