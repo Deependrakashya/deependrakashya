@@ -1,64 +1,66 @@
-# Hey there , I'm Deependra Kashyap 👋
+# Hi, I’m Deependra Kashyap 👋
 
-### 🚀 Flutter Developer | Cross-Platform Enthusiast | Tech Explorer
+### Flutter Developer | Mobile Engineer | Startup & Remote-Ready
 
-I'm a passionate Flutter developer with a keen interest in exploring new technologies and building innovative cross-platform mobile applications.
-
----
-
-## 💻 What I'm Working On:
-- 🛠️ Developing cross-platform mobile apps using Flutter.
-- 🌱 Learning more about backend development and integrating APIs.
-- 🔍 Exploring state management, animations, and performance optimization.
+I’m a Flutter developer with **1.9+ years of hands-on experience** building and shipping **production-ready mobile applications**. I focus on writing clean, scalable code and owning features end-to-end—from UI to API integration.
 
 ---
 
-## 🔧 Technologies & Tools:
-
-### Languages:
-- ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-- ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-- ![MySql](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
-
-### Frameworks:
-- ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-- ![React](https://img.shields.io/badge/-ReactJs-333333?style=flat&logo=react)
-
-### Tools:
-- ![Bloc](https://img.shields.io/badge/-Bloc-333333?style=flat&logo=bloc)
-- ![Provider](https://img.shields.io/badge/-Provider-333333?style=flat)
-- ![MVVM](https://img.shields.io/badge/-MVVM-333333?style=flat)
-- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode)
-
-### Others:
-- ![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat)
-- ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+## 🚀 What I’m Currently Focused On
+- 📱 Building and improving Flutter apps with real-world users  
+- 🛠️ Working with Firebase and REST APIs to deliver complete features  
+- 🧠 Strengthening **DSA and problem-solving skills** for high-impact engineering roles  
+- ⚡ Improving app performance, architecture, and maintainability  
 
 ---
 
-## 🏆 Achievements 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=deependrakashya&theme=radical)
+## 📱 Shipped Projects
+- **Infinite Wallpapers** – A Flutter-based wallpaper app with categorized content and smooth UX  
+- **AI Chatbot App** – Real-time conversational app using Gemini APIs and Firebase  
 
 ---
 
+## 🧰 Tech Stack
 
-## 📊 GitHub Stats:
-![Deependra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deependrakashya&show_icons=true&theme=radical)
+### Languages
+- Dart  
+- JavaScript  
+- C / C++  
+- SQL (MySQL)
 
+### Frameworks & SDKs
+- Flutter  
+- React (basic exposure)
+
+### Architecture & State Management
+- GetX  
+- Provider  
+- MVVM  
+- Clean Architecture
+
+### Backend & Services
+- Firebase Auth  
+- Firestore  
+- Firebase Storage  
+- REST APIs  
+- SQLite
+
+### Tools & Environment
+- Git & GitHub  
+- Linux  
+- VS Code  
+
+---
+
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deependrakashya&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deependrakashya&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/deependra-kashyap-08aa74268?originalSubdomain=in)
-- [Twitter](https://x.com/CodeByDeependra)
-- [Email](mailto:dipendrakashyap493@gmail.com)
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/deependra-kashyap-08aa74268)
+- 🐦 [Twitter / X](https://x.com/CodeByDeependra)
+- 📧 deependrakashyap@outlook.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deependrakashya&color=blue)
