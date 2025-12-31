@@ -1,6 +1,6 @@
 # Hi, I’m Deependra Kashyap 👋
 
-### Flutter Developer | Mobile Engineer | Startup & Remote-Ready
+### Flutter Developer | Mobile Engineer |
 
 I’m a Flutter developer with **1.9+ years of hands-on experience** building and shipping **production-ready mobile applications**. I focus on writing clean, scalable code and owning features end-to-end—from UI to API integration.
 
