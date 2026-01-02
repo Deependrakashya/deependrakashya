@@ -7,8 +7,7 @@ I’m a Flutter developer with **1.9+ years of hands-on experience** building an
 ---
 
 ## 🚀 What I’m Currently Focused On
-- 📱 Building and improving Flutter apps with real-world users  
-- 🛠️ Working with Firebase and REST APIs to deliver complete features  
+- 📱 Building and improving Flutter apps with real-world users   
 - 🧠 Strengthening **DSA and problem-solving skills** for high-impact engineering roles  
 - ⚡ Improving app performance, architecture, and maintainability  
 
