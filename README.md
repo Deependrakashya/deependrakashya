@@ -54,6 +54,6 @@ I’m a Flutter developer with **1.9+ years of hands-on experience** building an
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/deependra-kashyap-08aa74268)
 - 🐦 [Twitter / X](https://x.com/CodeByDeependra)
-- 📧 deependrakashyap@outlook.com
+- 📧 dipendrakashyap493@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deependrakashya&color=blue)
