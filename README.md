@@ -2,7 +2,7 @@
 
 ### Software Developer ( Flutter ) 
 
-I’m a Flutter developer with ** 2 years of hands-on experience** building and shipping **production-ready mobile applications**. I focus on writing clean, scalable code and owning features end-to-end—from UI to API integration.
+I’m a Flutter developer with **2 years of hands-on experience** building and shipping **production-ready mobile applications**. I focus on writing clean, scalable code and owning features end-to-end—from UI to API integration.
 
 ---
 
