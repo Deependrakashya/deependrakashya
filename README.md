@@ -1,21 +1,27 @@
 # Hi, I’m Deependra Kashyap 👋
 
-### Software Developer ( Flutter ) 
+### Software Engineer (Mobile + Backend)
 
-I’m a Flutter developer with **2 years of hands-on experience** building and shipping **production-ready mobile applications**. I focus on writing clean, scalable code and owning features end-to-end—from UI to API integration.
-
----
-
-## 🚀 What I’m Currently Focused On
-- 📱 Building and improving Flutter apps with real-world users   
-- 🧠 Strengthening **DSA and problem-solving skills** for high-impact engineering roles  
-- ⚡ Improving app performance, architecture, and maintainability  
+Engineer with **2+ years of experience** building **end-to-end applications** across mobile and backend systems. Skilled in designing scalable architectures, integrating APIs, and delivering production-ready features with performance and reliability in mind.
 
 ---
 
-## 📱 Shipped Projects
-- **Infinite Wallpapers** – A Flutter-based wallpaper app with categorized content and smooth UX  
-- **AI Chatbot App** – Real-time conversational app using Gemini APIs and Firebase  
+## 🚀 Current Focus
+- Building **full-stack mobile applications** (Flutter + backend services)  
+- Strengthening **Data Structures & Algorithms** for top-tier engineering roles  
+- Learning **scalable system design and backend architecture**  
+
+---
+
+## 📱 Selected Work
+
+### Infinite Wallpapers
+- Built a **high-performance Flutter app** with categorized content and smooth UX  
+- Optimized image loading and caching for better performance  
+
+### AI Chatbot App
+- Developed a **real-time chat application** using Gemini APIs and Firebase  
+- Implemented backend-driven interactions with low latency and scalable data handling  
 
 ---
 
@@ -25,35 +31,40 @@ I’m a Flutter developer with **2 years of hands-on experience** building and s
 - Dart  
 - JavaScript  
 - C / C++  
-- SQL (MySQL)
+- SQL  
 
-### Frameworks & SDKs
+### Mobile
 - Flutter  
-- React (basic exposure)
 
-### Architecture & State Management
-- GetX  
-- Provider  
-- MVVM  
-- Clean Architecture
-
-### Backend & Services
-- Firebase Auth  
-- Firestore  
-- Firebase Storage  
+### Backend
 - REST APIs  
-- SQLite
+- Firebase (Auth, Firestore, Storage)  
+- Backend architecture & data modeling  
 
-### Tools & Environment
+### Architecture
+- Clean Architecture  
+- MVVM  
+- State Management: GetX, Provider  
+
+### Tools
 - Git & GitHub  
 - Linux  
 - VS Code  
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/deependra-kashyap-08aa74268)
-- 🐦 [Twitter / X](https://x.com/CodeByDeependra)
-- 📧 dipendrakashyap493@gmail.com
+## 🧠 Engineering Direction
+- Strong **problem-solving and algorithmic thinking**  
+- Building **scalable backend systems**  
+- Writing **clean, maintainable, production-grade code**
+
+---
+
+## 🌐 Connect
+- LinkedIn: https://www.linkedin.com/in/deependra-kashyap-08aa74268  
+- Twitter/X: https://x.com/CodeByDeependra  
+- Email: dipendrakashyap493@gmail.com  
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deependrakashya&color=blue)
