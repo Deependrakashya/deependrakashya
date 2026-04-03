@@ -13,18 +13,47 @@ Engineer with **2+ years of experience** building **end-to-end applications** ac
 
 ---
 
-## 📱 Selected Work
+## 📱 Projects
 
-### Infinite Wallpapers
-- Built a **high-performance Flutter app** with categorized content and smooth UX  
-- Optimized image loading and caching for better performance  
+### All Files Viewer (Excel Tool)
+**Tech:** Flutter, Kotlin, MethodChannels, ML Kit, Provider  
 
-### AI Chatbot App
-- Developed a **real-time chat application** using Gemini APIs and Firebase  
-- Implemented backend-driven interactions with low latency and scalable data handling  
+- Engineered a **high-performance native bridge** using MethodChannels to offload heavy Excel/PDF processing to background threads  
+- Integrated **Google ML Kit OCR** for on-device text extraction with low-latency results  
+- Implemented **Android Storage Access Framework (SAF)** for secure and compliant file handling  
+- Improved app responsiveness by decoupling UI from compute-heavy operations  
 
 ---
 
+### Sonnet Sync (English Poems)
+**Tech:** Flutter, REST APIs, GetX, AdMob, MVVM  
+
+- Built an **API-driven application** with scalable state management using GetX  
+- Implemented **dynamic search and filtering** for fast content discovery  
+- Designed **local bookmarking system** for offline access  
+- Integrated **AdMob** with a non-intrusive UX strategy to maintain engagement  
+
+---
+
+### AI ChatBot
+**Tech:** Flutter, Gemini API, REST APIs  
+
+- Developed a **real-time conversational assistant** leveraging multiple Gemini models  
+- Implemented **context-aware response handling** for improved interaction quality  
+- Optimized API calls and UI rendering for **low-latency performance**  
+- Designed a responsive and scalable chat interface  
+
+---
+
+### Infinite Wallpapers
+**Tech:** Flutter, Dart, GetX, REST APIs, MVVM  
+
+- Built a **high-performance image gallery** with API-driven architecture  
+- Enabled dynamic **home & lock screen wallpaper setting** via platform-specific integrations  
+- Optimized **image loading, caching, and rendering** for smooth scrolling  
+- Implemented scalable state management using GetX  
+
+---
 ## 🧰 Tech Stack
 
 ### Languages
