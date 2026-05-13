@@ -92,7 +92,7 @@ Engineer with **2+ years of experience** building **end-to-end applications** ac
 ## 🌐 Connect
 - LinkedIn: https://www.linkedin.com/in/deependra-kashyap-08aa74268  
 - Twitter/X: https://x.com/CodeByDeependra  
-- Email: dipendrakashyap493@gmail.com  
+- Email: deependrakashyapp@gmail.com  
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=deependrakashya&color=blue)
