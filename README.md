@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=500&color=F59E0B&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Deependra+Kashyap+👋;Flutter+%2B+Node.js+%2B+Backend+Engineer;Building+Scalable+End-to-End+Apps+🚀;Mobile+%7C+Backend+%7C+APIs+%7C+Databases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=500&color=F59E0B&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Deependra+Kashyap;Crafting+Fast+%26+Reliable+Mobile+Experiences;Scalable+Backends+Powered+by+Node.js;Flutter+%7C+Express.js+%7C+PostgreSQL+%7C+MongoDB)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/deependra-kashyap-08aa74268">
@@ -23,28 +23,30 @@
 
 ---
 
+## About Me
 
-### 💫 About Me
+Flutter Developer specializing in high-performance cross-platform applications for Android and iOS.
 
-🔭 **Building** end-to-end mobile + backend systems  
-🌱 **Exploring** scalable architecture, system design & DSA  
-⚙️ **Stack** — Flutter · Node.js · MongoDB · PostgreSQL · Firebase  
-🎯 **Goal** — Write code that ships, scales, and lasts  
-📍 **India** — Open to remote & collaborative opportunities  
-⚡ **2+ years** crafting production-grade apps, zero excuses
+Backend Engineer focused on building scalable REST APIs with Node.js, Express.js, MongoDB, and PostgreSQL.
 
-<br clear="right"/>
+Interested in clean architecture, maintainable code, performance optimization, and scalable software systems.
+
+Continuously learning system design, backend engineering, and data structures & algorithms.
+
+Focused on building reliable, production-ready software.
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
+```text
+ Mobile      → Flutter applications for Android & iOS
+ Backend     → Node.js · Express.js · REST APIs
+ Databases   → PostgreSQL · MongoDB · Firebase
+ Engineering → Clean Architecture · Performance Optimization
+ Learning    → System Design · DSA · Scalable Software
 ```
-📱  Mobile     →  Flutter full-stack applications (Android + iOS)
-🔧  Backend    →  Node.js · REST APIs · MongoDB · PostgreSQL
-🏗️  Design     →  Scalable system design & clean architecture patterns
-🧮  Algorithms →  Mastering DSA for top-tier engineering roles
-```
+<br clear="right"/>
 
 ---
 
@@ -141,7 +143,7 @@
 <tr>
 <td colspan="2">
 
-### 🖼️ Infinite Wallpapers
+###  Infinite Wallpapers
 **Tech:** Flutter · Dart · GetX · REST APIs · MVVM
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Deependrakashya/infinite_wallpapers)
@@ -160,32 +162,32 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 📱 Mobile Development
+###  Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" alt="Mobile"/>
 </p>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,firebase,express" alt="Backend"/>
 </p>
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=dart,js,cpp,c" alt="Languages"/>
 </p>
 
-### 🏗️ Architecture & Patterns
+###  Architecture & Patterns
 
 | Layer | Expertise |
 |-------|-----------|
-| 📐 Architecture | Clean Architecture · MVVM · MVC · Repository Pattern |
-| 🔄 State Management | GetX · Provider · BLoC |
-| 🌐 APIs | REST · Scalable Backend Services · Postman |
-| 💾 Databases | MongoDB · PostgreSQL · Firebase Firestore · SQL |
-| 🔐 Auth & Security | Firebase Auth · JWT · Secure API design |
+|  Architecture | Clean Architecture · MVVM · MVC · Repository Pattern |
+|  State Management | GetX · Provider · BLoC |
+|  APIs | REST · Scalable Backend Services · Postman |
+|  Databases | MongoDB · PostgreSQL · Firebase Firestore · SQL |
+|  Auth & Security | Firebase Auth · JWT · Secure API design |
 
 ### 🛠️ Tools & Environment
 <p>
@@ -194,33 +196,60 @@
 
 ---
 
-## 🧠 Engineering Philosophy
+##  Engineering Philosophy
 
 ```dart
+
 class DeependraKashyap extends SoftwareEngineer {
 
-  final String role = "Flutter + Backend Engineer";
-  final int yearsOfExperience = 2;
+  final String role = "Flutter Developer & Backend Engineer";
+
+  final List<String> specializations = [
+    "Cross-platform Mobile Development",
+    "Backend API Development",
+    "Scalable Software Architecture",
+    "Performance Optimization",
+  ];
 
   @override
   final List<String> coreStrengths = [
-    "End-to-end mobile + backend development",
-    "Scalable REST API & database architecture",
-    "Native mobile bridges & performance optimization",
-    "Clean, maintainable, production-grade code",
-    "Strong problem-solving & algorithmic thinking",
+    "End-to-end application development",
+    "Production-ready Flutter applications",
+    "Scalable REST API architecture",
+    "Database design & optimization",
+    "Performance optimization",
+    "Clean, maintainable code",
+    "Problem solving & debugging",
   ];
 
   @override
   final Map<String, List<String>> currentStack = {
-    "mobile":   ["Flutter", "Dart", "Kotlin"],
-    "backend":  ["Node.js", "Express", "REST APIs"],
-    "database": ["MongoDB", "PostgreSQL", "Firebase"],
-    "devops":   ["Git", "GitHub", "Linux"],
+    "mobile": [
+      "Flutter",
+      "Dart",
+      "Kotlin"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "REST APIs"
+    ],
+    "database": [
+      "PostgreSQL",
+      "MongoDB",
+      "Firebase"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Linux",
+      "Postman"
+    ]
   };
 
   @override
-  String get currentGoal => "Build scalable systems. Ship great products. 🚀";
+  String get currentGoal =>
+      "Build software that is fast, maintainable, and scalable.";
 }
 ```
 
@@ -230,7 +259,7 @@ class DeependraKashyap extends SoftwareEngineer {
 
 <div align="center">
 
-| 💼 LinkedIn | 🐦 Twitter/X | 📸 Instagram | 📧 Email |
+| LinkedIn | Twitter/X | Instagram | Email |
 |:-----------:|:------------:|:------------:|:--------:|
 | [deependra-kashyap-08aa74268](https://www.linkedin.com/in/deependra-kashyap-08aa74268) | [@CodeByDeependra](https://x.com/CodeByDeependra) | [@crashed_deependra](https://www.instagram.com/crashed_deependra) | [deependrakashyapp@gmail.com](mailto:deependrakashyapp@gmail.com) |
 
