@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Deependra+Kashyap+👋;Flutter+%2B+Node.js+%2B+Backend+Engineer;Building+Scalable+End-to-End+Apps+🚀;Mobile+%7C+Backend+%7C+APIs+%7C+Databases)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=500&color=F59E0B&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Deependra+Kashyap+👋;Flutter+%2B+Node.js+%2B+Backend+Engineer;Building+Scalable+End-to-End+Apps+🚀;Mobile+%7C+Backend+%7C+APIs+%7C+Databases)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/deependra-kashyap-08aa74268">
@@ -68,7 +68,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deependrakashya&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=deependrakashya&theme=light&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 ---
