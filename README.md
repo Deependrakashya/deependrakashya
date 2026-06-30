@@ -68,7 +68,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=deependrakashya&theme=light&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=deependrakashya&theme=dark&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 ---
