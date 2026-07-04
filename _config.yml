@@ -1,0 +1,49 @@
+
+# Site settings
+title: Deependra Kashyap
+description: Flutter Developer & Backend Engineer | Portfolio
+url: https://deependrakashya.github.io
+baseurl: ""
+
+# Jekyll settings
+theme: jekyll-theme-minimal
+markdown: kramdown
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files
+exclude:
+  - .gitignore
+  - .github/workflows
+  - vendor
+
+# Enable syntax highlighting
+highlighter: rouge
+
+# Pagination (if needed)
+paginate: 10
+paginate_path: /blog/page/:num/
+
+# Locale
+locale: en_US
+
+# Author information
+author:
+  name: Deependra Kashyap
+  email: deependrakashyapp@gmail.com
+  twitter: CodeByDeependra
+  linkedin: deependra-kashyap-08aa74268
+  github: Deependrakashya
+
+# Social links
+social:
+  links:
+    - https://www.linkedin.com/in/deependra-kashyap-08aa74268
+    - https://x.com/CodeByDeependra
+    - https://github.com/Deependrakashya
+    - https://www.instagram.com/crashed_deependra
