@@ -1,9 +1,11 @@
-
 # Site settings
 title: Deependra Kashyap
 description: Flutter Developer & Backend Engineer | Portfolio
 url: https://deependrakashya.github.io
 baseurl: ""
+
+# This is a user/organization site, not a project site
+# The repository name must be your username.github.io for the root URL to work
 
 # Jekyll settings
 theme: jekyll-theme-minimal
