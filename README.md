@@ -61,7 +61,7 @@ Focused on building reliable, production-ready software.
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats2-hp50wp3sd.vercel.app?user=deependrakashya&theme=radical&hide_border=true&border_radius=5.2)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats2-eta.vercel.app?user=deependrakashya&theme=radical&date_format=j%20M%5B%20Y%5D&card_width=899&card_height=200&ring=000000&border=EB545400)](https://git.io/streak-stats)
 
 </div>
 
