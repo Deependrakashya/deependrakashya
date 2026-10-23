@@ -12,6 +12,13 @@
 </p>
 
 </div>
+<img src="./assets/terminal.svg" width="100%" height="20%" alt="deependra@dev terminal: whoami → Node.js Backend & Flutter Engineer, 10+ apps shipped; node server.js → Express on :3000 with /api/v1 and JWT, Postgres, Mongo and Cloudinary ready; flutter run --release → MethodChannel Kotlin bridge and ML Kit OCR; cat design.md → versioned REST, stateless JWT auth, schema and indexes first"/>
+
+### `$ open system-design.svg`
+
+<div align="center">
+<img src="./assets/pipeline.svg" width="100%" alt="Flutter apps on Android, iOS and desktop with two outgoing paths: native path MethodChannel → Kotlin background thread → ML Kit OCR and SAF; backend path Express API (/api/v1, REST) → middleware (JWT, bcrypt) → PostgreSQL and MongoDB (indexes, aggregation)"/>
+</div>
 
 ### `$ cat ~/about.yaml`
 
@@ -34,11 +41,7 @@ goal:      "Build software that is fast, maintainable, and scalable."
 
 <br/>
 
-### `$ open system-design.svg`
 
-<div align="center">
-<img src="./assets/pipeline.svg" width="100%" alt="Flutter apps on Android, iOS and desktop with two outgoing paths: native path MethodChannel → Kotlin background thread → ML Kit OCR and SAF; backend path Express API (/api/v1, REST) → middleware (JWT, bcrypt) → PostgreSQL and MongoDB (indexes, aggregation)"/>
-</div>
 
 Half of my work is the client, half is the server it talks to. The top path is what makes **My Docs** fast on-device; the bottom path is the Node.js side: API design, auth and data modelling.
 
@@ -227,7 +230,7 @@ class DeependraKashyap extends SoftwareEngineer {
 }
 </pre>
 
-<img src="./assets/terminal.svg" width="100%" alt="deependra@dev terminal: whoami → Node.js Backend & Flutter Engineer, 10+ apps shipped; node server.js → Express on :3000 with /api/v1 and JWT, Postgres, Mongo and Cloudinary ready; flutter run --release → MethodChannel Kotlin bridge and ML Kit OCR; cat design.md → versioned REST, stateless JWT auth, schema and indexes first"/>
+
 
 <div align="center">
 
