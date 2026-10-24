@@ -5,7 +5,7 @@
 <p>
   <a href="https://www.linkedin.com/in/deependra-kashyap-08aa74268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/CodeByDeependra"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/crashed_deependra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/deepu.zip"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:deependrakashyapp@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.dtools.allfileviewer"><img src="https://img.shields.io/badge/Play_Store-My_Docs_is_live-34A853?style=flat-square&logo=google-play&logoColor=white" alt="Play Store"/></a>
   <img src="https://komarev.com/ghpvc/?username=deependrakashya&color=F59E0B&style=flat-square&label=views" alt="Profile views"/>
