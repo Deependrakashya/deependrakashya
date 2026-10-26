@@ -224,7 +224,7 @@ class DeependraKashyap extends SoftwareEngineer {
 {
   "linkedin":  "<a href="https://www.linkedin.com/in/deependra-kashyap-08aa74268">https://www.linkedin.com/in/deependra-kashyap-08aa74268</a>",
   "x":         "<a href="https://x.com/CodeByDeependra">https://x.com/CodeByDeependra</a>",
-  "instagram": "<a href="https://www.instagram.com/crashed_deependra">https://www.instagram.com/crashed_deependra</a>",
+  "instagram": "<a href="https://www.instagram.com/crashed_deependra">https://www.instagram.com/deepu.zip</a>",
   "email":     "<a href="mailto:deependrakashyapp@gmail.com">deependrakashyapp@gmail.com</a>",
   "status":    "open to Node.js backend &amp; Flutter work"   // say hi
 }
